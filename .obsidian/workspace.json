@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "770f35bd5391c67e",
+    "type": "split",
+    "children": [
+      {
+        "id": "af5df724ca45447d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad258e86ea3a22a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Overall/BASICS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4934beea9699283e",
+    "type": "split",
+    "children": [
+      {
+        "id": "afebd3e5d06512dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "627cc082d9b68ce3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5d838d4d82603e32",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f5ad1a10758179e6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "29e58a5580f6ebce",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d742e8473fb51e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b414d5b32fb29a11",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Overall/BASICS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dcc0fd37f87200c9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Overall/BASICS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2fe5d7a987c8237d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "203dd2f6fead3575",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Overall/BASICS.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ad258e86ea3a22a2",
+  "lastOpenFiles": [
+    "Overall/LEET CODE.md",
+    "Overall/Images/Pasted image 20240307224536.png",
+    "Overall/Images/Pasted image 20240319215420.png",
+    "Overall/Images/Pasted image 20240319212449.png",
+    "Overall/Images/Pasted image 20240319211014.png",
+    "Overall/Images/Pasted image 20240316090410.png",
+    "Overall/Images/Pasted image 20240316090200.png",
+    "Overall/Images/Pasted image 20240316090124.png",
+    "Overall/Images/Pasted image 20240316085449.png",
+    "Overall/Images/Pasted image 20240313225235.png",
+    "Overall/Images/Pasted image 20240313223710.png",
+    "jaa.md",
+    "Overall/Images",
+    "Overall/SHORT CUT KEYWORDDS.md",
+    "Overall/EXERCISES.md",
+    "Overall/BASICS.md",
+    "Overall",
+    "CORE (AMIGO COURSE)/Amigo content.md",
+    "CORE (AMIGO COURSE)/ABOUT.md",
+    "CORE (AMIGO COURSE)",
+    "j"
+  ]
+}
