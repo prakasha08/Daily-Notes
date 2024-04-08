@@ -36,7 +36,7 @@ Specific how to access class ,methods and fields
 ## Static keyword
 
 #Statickeyword
-Public static or private static where static is allows the access methos and class by ".".we can access only by static keyword.
+Public static or private static where static is allows the access methods and class by ".".we can access only by static keyword.
 ## Return type
 ![[Pasted image 20240131212341.png]]
 ### Return type
@@ -50,13 +50,13 @@ Public static or private static where static is allows the access methos and cla
 ![[Pasted image 20240131204101.png]]
 # Structure
 ![[Pasted image 20240123144603.png]]  
-# system.Out
+# System.out
 #Systemout
-- 'Out' is an object of Print Stream class.
+- 'out' is an object of Print Stream class.
 - out is an camel case 
-- print and println are methods in print Stream class where it can be called by using ".out".
+- print and println are methods in print Stream class where it can be called by using "out.".
 - System is class(Pascal case)
-- out is in system field.where out can access by "."  System.
+- out is in system field where out can access by "System." .
 - System.out.println->println method can access by out. where it can access by system.
 # Types of errors
 #errors
@@ -201,14 +201,14 @@ public class Main {
 }
 ```
 o/p
-- ![[Screenshot 2024-02-03 152123.png]]
-## new vs =
-![[Pasted image 20240218195941.png]]
+ ![[Screenshot 2024-02-03 152123.png]]
 ## Strings are Immutable
 - Immutable means it cannot be changed. 
 - that Means reference Type are immutable. 
 - string is an Immutable.
-- ![[Pasted image 20240201210906.png]]
+![[Pasted image 20240201210906.png]]
+# new vs =
+![[Pasted image 20240218195941.png]]
 
 # Primitive and Reference Type
 - ![[Screenshot 2024-02-01 204748.png]]![[Screenshot 2024-02-01 204815.png]]![[Screenshot 2024-02-01 204839.png]]
@@ -383,7 +383,7 @@ public static void main(String[] args) {
     System.out.println(Math.PI);  
 }
 ```
-![[Screenshot 2024-02-04 211456.png]]
+![[Pasted image 20240408105932.png]]
 # Arrays
 #Arrays
 ![[Screenshot 2024-02-18 212537.png]]
@@ -466,8 +466,8 @@ public class Practice
 ![[Pasted image 20240222204528.png]]
 ![[Pasted image 20240222204558.png]]
 # For Each Loop(Array list)
-- used for iteration in Array/Arraylist
-## syntax of For Each
+- Used for iteration in Array/Arraylist
+## syntax of For Each Loop:
 ![[Pasted image 20240222205226.png]]
 ## In Array list
 ![[Pasted image 20240222205304.png]]
